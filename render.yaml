@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: interstellar
+    name: monkey
     env: docker
     plan: free
